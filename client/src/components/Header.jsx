@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import styled from 'styled-components';
 import { GlobalOutlined, HeartOutlined, LeftOutlined, MenuOutlined, UploadOutlined } from '@ant-design/icons';
 import { colors, query } from '../utils';
+const { styled } = window;
 
 const HeaderContainer = styled.header`
   align-items: center;
