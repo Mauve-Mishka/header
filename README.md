@@ -2,7 +2,7 @@
 
 This static header was built using React to add a little icing to the Airbnb clone proxy. Components are responsive with mobile-first styling.
 
-See the [Live Demo](http://ec2-44-241-38-228.us-west-2.compute.amazonaws.com:5000/rooms/100/)
+### See the [Live Demo](http://ec2-44-241-38-228.us-west-2.compute.amazonaws.com:5000/rooms/100/)
 
 ## Related Projects
 
