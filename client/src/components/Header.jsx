@@ -66,6 +66,7 @@ const HeaderContainer = styled.header`
     }
   }
   @media (min-width: ${query.large}) {
+    padding: 0 80px;
     .wordmark {
       display: block;
       height: 20px;
@@ -150,7 +151,7 @@ const DropdownContainer = styled.div`
   position: absolute;
   top: 74px;
   width: 240px;
-  z-index: 100px;
+  z-index: 10000;
   div {
     display: flex;
     flex-direction: column;
